@@ -1,5 +1,5 @@
 ### 💫 About Me:
-I'm currently working on the final project "transcendence" of Common Core in 42 Luxembourg.
+Just finished Common Core in 42 Luxembourg. Currently focus on "avaj-launcher" project to better understand Java.
 
 
 ### 🌐 Socials:
