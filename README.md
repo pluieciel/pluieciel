@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Just finished Common Core in 42 Luxembourg. Currently focus on "avaj-launcher" project to better understand Java.
+Thrives on New Challenges & Continuous Growth
 
 
 ### 🌐 Socials:
